@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DptWVFftsw4ODNe2yaiDQMEz+mXZMxOhAgTG+Yg5JDDCHQaIczt/G9LXL2H8UzqHbfao7yg9XLu8FU5wj4k3AQ==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\Suni\\Desktop\\uhcs\\chalamala_villarreal\\assign2\\F#\\PythagoreanSeries\\PythagoreanSeries.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Suni\\.nuget\\packages\\fsharp.core\\5.0.0\\fsharp.core.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
